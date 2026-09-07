@@ -1,0 +1,3 @@
+model_name,test_period,MAE,RMSE,notes
+Baseline,chronological test split,7683.81,9579.81,Simple baseline model
+Random Forest,chronological test split,427.04,524.29,Main forecasting model - significantly outperforms baseline
