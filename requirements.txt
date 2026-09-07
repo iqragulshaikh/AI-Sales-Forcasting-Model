@@ -1,0 +1,22 @@
+# Core Data Science & Visualization
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.2.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# LLM & RAG Integration
+langchain>=0.1.0
+langchain-core>=0.1.0
+langchain-community>=0.0.10
+langchain-google-genai>=0.0.5
+google-generativeai>=0.3.0
+httpx>=0.25.0
+
+# Vector Database
+faiss-cpu>=1.7.4
+
+# Environment & Jupyter Utilities
+python-dotenv>=1.0.0
+jupyterlab>=4.0.0
+ipykernel>=6.25.0
